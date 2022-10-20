@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0c4bc8c543b767c4db138fcef69814b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathClip: {fileID: 8300000, guid: 9997b2cad339a66469da3b01c842e8f4, type: 3}
+  - hurtClip: {fileID: 8300000, guid: c39c1241ffc42f34b9821e38069fba13, type: 3}
+  - jumpClip: {fileID: 8300000, guid: f0dfa46f696190a41b7d49be435c948e, type: 3}
+  - runClip: {fileID: 8300000, guid: fb50c255958845d45acd87f56780fcf8, type: 3}
+  - itemClip: {fileID: 8300000, guid: e0496afec99dfcc46ab4645f178a38ff, type: 3}
+  - healClip: {fileID: 8300000, guid: 8498776cef902c349a0f60433d840739, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
